@@ -1,0 +1,106 @@
+{
+  "Ads": [
+      {
+     "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Nisa Sabyan",
+      "image":"file:///android_asset/nisa.png",
+      "link":"https://play.google.com/store/apps/details?id=wavideo.nissasabyan.pranktelpon.sholawatpenyejukhati"
+    },
+    {
+      "id":2,
+      "title":"Cewek Cantik",
+      "image":"file:///android_asset/cewek.png",
+      "link":"https://play.google.com/store/apps/details?id=wavideocall.prank.pacar.fake.videocall.sama.cewek.cantik"
+    }
+  ],
+  "Item":
+  [
+    {
+      "id":1,
+      "name":"Not Not 1",
+      "image_url":"file:///android_asset/notnotgambar1.png",
+      "video_url":"notnotvideocall1",
+      "voice_url":"notnotnotnotnotnot.mp3"
+    },
+    {
+      "id":2,
+      "name":"Not Not 2",
+      "image_url":"file:///android_asset/notnotgambar2.png",
+      "video_url":"notnotvideocall2",
+      "voice_url":"notnotnotnotnotnot.mp3"
+    },
+    {
+      "id":3,
+      "name":"Not Not 3",
+      "image_url":"file:///android_asset/notnotgambar3.png",
+      "video_url":"notnotvideocall3",
+      "voice_url":"notnotnotnotnotnot.mp3"
+    },
+    {
+      "id":4,
+      "name":"Not Not 4",
+      "image_url":"file:///android_asset/notnotgambar4.png",
+      "video_url":"notnotvideocall4",
+      "voice_url":"notnotnotnotnotnot.mp3"
+    },
+    {
+      "id":5,
+      "name":"Not Not 5",
+      "image_url":"file:///android_asset/notnotgambar5.png",
+      "video_url":"notnotvideocall1",
+      "voice_url":"notnotnotnotnotnot.mp3"
+    },
+    {
+      "id":6,
+      "name":"Not Not 6",
+      "image_url":"file:///android_asset/notnotgambar6.png",
+      "video_url":"notnotvideocall2",
+      "voice_url":"notnotnotnotnotnot.mp3"
+    },
+    {
+      "id":7,
+      "name":"Not Not 7",
+      "image_url":"file:///android_asset/notnotgambar7.png",
+      "video_url":"notnotvideocall3",
+      "voice_url":"notnotnotnotnotnot.mp3"
+    },
+    {
+      "id":8,
+      "name":"Not Not 8",
+      "image_url":"file:///android_asset/notnotgambar8.png",
+      "video_url":"notnotvideocall4",
+      "voice_url":"notnotnotnotnotnot.mp3"
+    }
+  ]
+
+}
