@@ -1,0 +1,110 @@
+{
+  "Ads": [
+      {
+     "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Nisa Sabyan",
+      "image":"file:///android_asset/nisa.png",
+      "link":"https://play.google.com/store/apps/details?id=wavideo.nissasabyan.pranktelpon.sholawatpenyejukhati"
+    },
+    {
+      "id":2,
+      "title":"Cewek Cantik",
+      "image":"file:///android_asset/cewek.png",
+      "link":"https://play.google.com/store/apps/details?id=wavideocall.prank.pacar.fake.videocall.sama.cewek.cantik"
+    },
+    {
+      "id":3,
+      "title":"Kayes",
+      "image":"file:///android_asset/kayes.png",
+      "link":"https://play.google.com/store/apps/details?id=wavideocall.kayes.onic.proplayer.esport.ml"
+    },
+    {
+      "id":4,
+      "title":"Not Not",
+      "image":"file:///android_asset/not.png",
+      "link":"https://play.google.com/store/apps/details?id=wavideocall.fakecall.not.not.famer.esport"
+    },
+    {
+      "id":5,
+      "title":"Livy Renata",
+      "image":"file:///android_asset/livy.png",
+      "link":"https://play.google.com/store/apps/details?id=wavideocall.fakecall.livy_renata.pro.player.ml"
+    }
+  ],
+  "Item":
+  [
+    {
+      "id":1,
+      "name":"Aishwa Nahla 1",
+      "image_url":"file:///android_asset/fakecallaishwanahlagambar1.png",
+      "video_url":"fakecallaishwanahlavideo1",
+      "voice_url":"fakecallaishwanahlasuara.mp3"
+    },
+    {
+      "id":2,
+      "name":"Aishwa Nahla 2",
+      "image_url":"file:///android_asset/fakecallaishwanahlagambar2.png",
+      "video_url":"fakecallaishwanahlavideo2",
+      "voice_url":"fakecallaishwanahlasuara.mp3"
+    },
+    {
+      "id":3,
+      "name":"Aishwa Nahla 3",
+      "image_url":"file:///android_asset/fakecallaishwanahlagambar3.png",
+      "video_url":"fakecallaishwanahlavideo3",
+      "voice_url":"fakecallaishwanahlasuara.mp3"
+    },
+    {
+      "id":4,
+      "name":"Aishwa Nahla 4",
+      "image_url":"file:///android_asset/fakecallaishwanahlagambar4.png",
+      "video_url":"fakecallaishwanahlavideo1",
+      "voice_url":"fakecallaishwanahlasuara.mp3"
+    },
+    {
+      "id":5,
+      "name":"Aishwa Nahla 5",
+      "image_url":"file:///android_asset/fakecallaishwanahlagambar5.png",
+      "video_url":"fakecallaishwanahlavideo2",
+      "voice_url":"fakecallaishwanahlasuara.mp3"
+    },
+    {
+      "id":6,
+      "name":"Aishwa Nahla 6",
+      "image_url":"file:///android_asset/fakecallaishwanahlagambar6.png",
+      "video_url":"fakecallaishwanahlavideo3",
+      "voice_url":"fakecallaishwanahlasuara.mp3"
+    }
+  ]
+
+}
