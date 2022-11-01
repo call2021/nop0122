@@ -32,9 +32,27 @@
   [
     {
       "id":1,
-      "judul":"Cewek",
-      "image":"file:///android_asset/1.webp",
-      "link":"file:///android_asset/1.webp"
+      "judul":"Not Not",
+      "image":"file:///android_asset/not.png",
+      "link":"https://play.google.com/store/apps/details?id=wavideocall.fakecall.not.not.famer.esport"
+    },
+    {
+      "id":2,
+      "judul":"Nissa",
+      "image":"file:///android_asset/nisa.png",
+      "link":"https://play.google.com/store/apps/details?id=wavideo.nissasabyan.pranktelpon.sholawatpenyejukhati"
+    },
+    {
+      "id":3,
+      "judul":"Livy",
+      "image":"file:///android_asset/livy.png",
+      "link":"https://play.google.com/store/apps/details?id=wavideocall.fakecall.livy_renata.pro.player.ml"
+    },
+    {
+      "id":4,
+      "judul":"Kayes",
+      "image":"file:///android_asset/kayes.png",
+      "link":"https://play.google.com/store/apps/details?id=wavideocall.kayes.onic.proplayer.esport.ml"
     }
   ],
   "Item":
