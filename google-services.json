@@ -1,0 +1,125 @@
+{
+  "project_info": {
+    "project_number": "608599664387",
+    "firebase_url": "https://call-simulation-2.firebaseio.com",
+    "project_id": "call-simulation-2",
+    "storage_bucket": "call-simulation-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608599664387:android:77a72a0a02d8874e51ab36",
+        "android_client_info": {
+          "package_name": "wavideo.fakecall.pocong.ditelponpocong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608599664387-7am0i1uud6r84ab7i5h8bjnvj4a4hlsi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "wavideo.fakecall.pocong.ditelponpocong",
+            "certificate_hash": "97dc73dfd033f76d12af016891b1c50f4a75af53"
+          }
+        },
+        {
+          "client_id": "608599664387-5mhgfe5gq97v0b03uil4o7e04m58uls6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYSYew9V_UFrW-qsOZiQuinZfIlgmUiJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608599664387-5mhgfe5gq97v0b03uil4o7e04m58uls6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-6778434005955887~6107966985"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608599664387:android:b5454d3b86a190d751ab36",
+        "android_client_info": {
+          "package_name": "wavideo.nissasabyan.pranktelpon.sholawatpenyejukhati"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608599664387-knu1sqqrfoi9fl22521chdn7ig20e27t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "wavideo.nissasabyan.pranktelpon.sholawatpenyejukhati",
+            "certificate_hash": "22e66bba18fc26d4196919688c7e8cb54d5f042f"
+          }
+        },
+        {
+          "client_id": "608599664387-5mhgfe5gq97v0b03uil4o7e04m58uls6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYSYew9V_UFrW-qsOZiQuinZfIlgmUiJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608599664387-5mhgfe5gq97v0b03uil4o7e04m58uls6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-6778434005955887~1920475812"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608599664387:android:e36a51dd7f7fcec751ab36",
+        "android_client_info": {
+          "package_name": "wavideocall.kpop.blackpink.jennie.rose.lisa.jisoo.fakecall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608599664387-jq2k7hbhuhnoovrkhda3b1r445sorsun.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "wavideocall.kpop.blackpink.jennie.rose.lisa.jisoo.fakecall",
+            "certificate_hash": "f863d9dcac611805ddf6e8543d8c0563e63923c8"
+          }
+        },
+        {
+          "client_id": "608599664387-5mhgfe5gq97v0b03uil4o7e04m58uls6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYSYew9V_UFrW-qsOZiQuinZfIlgmUiJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608599664387-5mhgfe5gq97v0b03uil4o7e04m58uls6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-6778434005955887~4064257573"
+    }
+  ],
+  "configuration_version": "1"
+}
