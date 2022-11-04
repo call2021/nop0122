@@ -1,0 +1,92 @@
+{
+  "Ads": [
+      {
+     "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Jungkook Bts",
+      "image":"file:///android_asset/1.png",
+      "link":"https://play.google.com/store/apps/details?id=jungkook.fakevideocall.bts_jungkook.kpop_idol_jungkook"
+    },
+	{
+      "id":2,
+      "title":"Bts",
+      "image":"file:///android_asset/as.png",
+      "link":"https://play.google.com/store/apps/details?id=wavideo.bts.kpop.bts_fake_call.bts_video_call.callbts.btsidol.jungkook"
+    }
+  ],
+  "Item":
+  [
+    {
+      "id":1,
+      "name":"Jimin Bts",
+      "image_url":"file:///android_asset/2.png",
+      "video_url":"jimin1",
+      "voice_url":"jimin_1.mp3"
+    },
+    {
+      "id":2,
+      "name":"Jimin Bts",
+      "image_url":"file:///android_asset/3.png",
+      "video_url":"jimin2",
+      "voice_url":"jimin_1.mp3"
+    },
+    {
+      "id":3,
+      "name":"Jimin Bts",
+      "image_url":"file:///android_asset/4.png",
+      "video_url":"jimin3",
+      "voice_url":"jimin_1.mp3"
+    },
+    {
+      "id":4,
+      "name":"Jimin Bts",
+      "image_url":"file:///android_asset/5.png",
+      "video_url":"jimin4",
+      "voice_url":"jimin_1.mp3"
+    },
+    {
+      "id":5,
+      "name":"Jimin Bts",
+      "image_url":"file:///android_asset/6.png",
+      "video_url":"jimin5",
+      "voice_url":"jimin_1.mp3"
+    },
+    {
+      "id":6,
+      "name":"Jimin Bts",
+      "image_url":"file:///android_asset/1.png",
+      "video_url":"jimin6",
+      "voice_url":"jimin_1.mp3"
+    }
+  ]
+
+}
