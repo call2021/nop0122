@@ -1,0 +1,85 @@
+{
+  "Ads": [
+      {
+     "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    { "id":1,
+      "title":"Momo Fake Call",
+      "image":"file:///android_asset/11.png",
+      "link":"https://play.google.com/store/apps/details?id=wavideocall.momocalling.fake.videocallprank.call.momo.chat"
+    }
+  ],
+  "Item":
+  [
+    {
+      "id":1,
+      "name":"Scary Clown",
+      "image_url":"file:///android_asset/1.png",
+      "video_url":"aaa1",
+      "voice_url":"suara_kuberharap.mp3"
+    },
+    {
+      "id":2,
+      "name":"Scary Clown",
+      "image_url":"file:///android_asset/2.png",
+      "video_url":"aaa2",
+      "voice_url":"suara_kuberharap.mp3"
+    },
+    {
+      "id":3,
+      "name":"Scary Clown",
+      "image_url":"file:///android_asset/3.png",
+      "video_url":"aaa3",
+      "voice_url":"suara_kuberharap.mp3"
+    },
+    {
+      "id":4,
+      "name":"Scary Clown",
+      "image_url":"file:///android_asset/4.png",
+      "video_url":"aaa4",
+      "voice_url":"suara_kuberharap.mp3"
+    },
+    {
+      "id":5,
+      "name":"Scary Clown",
+      "image_url":"file:///android_asset/5.png",
+      "video_url":"aaa5",
+      "voice_url":"suara_kuberharap.mp3"
+    },
+    {
+      "id":6,
+      "name":"Scary Clown",
+      "image_url":"file:///android_asset/6.png",
+      "video_url":"aaa6",
+      "voice_url":"suara_kuberharap.mp3"
+    }
+  ]
+
+}
